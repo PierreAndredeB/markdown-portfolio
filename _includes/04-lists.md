@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* favorites hobby's
+  * learning the code
+  * playing with electronics like arduino
+  * shopping new coding books
